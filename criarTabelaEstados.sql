@@ -1,4 +1,4 @@
--- Criando tabela estado
+-- Criando tabela estados
 
 create table estados (
     id int unsigned not null auto_increment,
